@@ -16,3 +16,39 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+
+#datetime-picker {
+  margin-bottom: 20px;
+}
+
+.timer {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-right: 16px;
+}
+
+.value {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+/*  */
+
+
+.form-label-delay {
+  display: flex;
+  flex-direction: column;
+  max-width: 220px;
+  margin-bottom: 12px;
+}
+
+fieldset {
+  max-width: 191px;
+  margin-bottom: 10px;
+}
